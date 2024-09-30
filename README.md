@@ -5,7 +5,7 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Global_attributes/lang
 
 Vérifier la non utilisation de paragraphes vides. Si besoin d'aération, remplacez les paragraphes vides par un équivalent en css.
 
-Utiliser un balisage correct pour les paragraphes
+Utiliser un balisage correct pour les citations
 
 Préciser le format attendu pour chaque champ et/ou les contraintes de saisie
 
