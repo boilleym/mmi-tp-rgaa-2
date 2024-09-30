@@ -9,3 +9,8 @@ Utiliser un balisage correct pour les citations
 
 Préciser le format attendu pour chaque champ et/ou les contraintes de saisie
 
+Balisez le message d'erreur avec le bon rôle. 
+
+Est ce que les messages d'erreur et de confirmation utilisent la bonne balise HTML ? Si non corrigez le HTML. 
+
+
