@@ -3,6 +3,8 @@
 Vérifier les attributs de langue (global et la page et local pour le sphrases en langues étrangères)
 https://developer.mozilla.org/fr/docs/Web/HTML/Global_attributes/lang
 
+Est ce que les images ont besoin d'un texte alternatif ? Si besoin corrigez.
+
 Vérifier la non utilisation de paragraphes vides. Si besoin d'aération, remplacez les paragraphes vides par un équivalent en css.
 
 Utiliser un balisage correct pour les citations
