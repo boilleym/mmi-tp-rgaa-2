@@ -41,6 +41,10 @@ Si un champ est obligatoire il doit être identifié (par exemple avec un astér
 9- Balisez le message d'erreur avec le bon rôle ARIA<br />
 https://access42.net/live-regions-aria-live-analogues-alert-log-status/
 
+Le menu de navigation principal doit avoir un attribut WAI-ARIA role="navigation"<br />
+La zone de contenu principal doit avoir un attribut WAI-ARIA role="main"<br />
+La zone de pied de page doit avoir un attribut WAI-ARIA role="contentinfo"<br />
+
 10- Est ce que les messages d'erreur et de confirmation utilisent une balise HTML sémantique appropriée ? Si non corrigez le HTML.
 
 11- Utilisez un attribut aria-label pour completer le libellé peu clair du bouton<br />
