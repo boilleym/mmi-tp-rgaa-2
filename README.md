@@ -59,12 +59,13 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Attributes/autocomplete
 https://developer.mozilla.org/fr/docs/Web/CSS/outline<br />
 https://developer.mozilla.org/fr/docs/Web/CSS/outline-offset
 
-**Facultatif** Développer un bloc de liens d'évitement contenant un lien interne (ancre) vers la balise `<article>` et un autre lien interne vers la balise `<footer>`.<br />
-Ce bloc est visible uniquement lorsque le focus clavier est positionné sur l'un des deux liens.<br />
+14-  Développer un bloc de liens d'évitement contenant un lien interne (ancre) vers la balise `<article>` et un autre lien interne vers la balise `<footer>`.<br />Ce bloc est visible uniquement lorsque le focus clavier est positionné sur l'un des deux liens.<br />
 https://a11y-guidelines.orange.com/fr/articles/liens-evitement/
 
+15- Adapter le CSS pour que la page s'affiche sans barre de scroll *horizontale* dans un écran de largeur 500px.
+
 ## Conformité W3C
-14- Vérifiez la conformité de votre HTML en copiant / collant le contenu de **index.html** dans le champ de contrôle "Direct input" du *W3C Validator*.<br />
+16- Vérifiez la conformité de votre HTML en copiant / collant le contenu de **index.html** dans le champ de contrôle "Direct input" du *W3C Validator*.<br />
 Corrigez les erreurs éventuelles.<br />
 https://validator.w3.org/#validate_by_input
 
