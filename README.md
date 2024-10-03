@@ -51,7 +51,7 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Attributes/autocomplete
 
 ## Navigation 
 
-13- Naviguez au clavier dans la page, chaque élément recevant le focus doit être mis en évidence graphiquement. Si ce n'est pas le cas completez le CSS pour ajouter un effet de bordure lors de la prise de focus des éléments. (1 point bonus si la couleur de la bordure est raccord avec la robe du mage de l'illustration).<br />
+13- Naviguez au clavier dans la page, chaque élément recevant le focus doit être mis en évidence graphiquement. Si ce n'est pas le cas completez le CSS (en utilisant la pseudo classe :focus) pour ajouter un effet de bordure lors de la prise de focus des éléments. (1 point bonus si la couleur de la bordure est raccord avec la robe du mage de l'illustration).<br />
 https://developer.mozilla.org/fr/docs/Web/CSS/outline<br />
 https://developer.mozilla.org/fr/docs/Web/CSS/outline-offset
 
