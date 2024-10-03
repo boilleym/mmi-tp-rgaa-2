@@ -13,7 +13,7 @@ Vus êtes mandatés par l'organisation de la convention de Donjons et Dragons de
 # Travaux
 
 ## Métadonnées
-1- Completez les balises `<title>` et `<meta "description>` avec des libellés pertinents.
+1- Completez les balises `<title>` et `<meta "description">` avec des libellés pertinents.
 
 ## Couleurs et illustrations
 2- Avec l'outil de votre choix vérifiez que le contraste entre tous les textes et leurs arrières plans est bien au minimum 4.5:1<br />
