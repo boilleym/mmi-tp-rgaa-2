@@ -23,7 +23,7 @@ Si ce n'est pas le cas, corrigez la couleur dans le CSS pour respecter le ratio 
 Si aucun texte alternatif n'est utile, vérifier que l'attribut "alt" soit présent mais vide.
 
 ## Balisage 
-4- Vérifier les attributs de langue (global et la page et local pour le sphrases en langues étrangères)<br />
+4- Vérifier les attributs de langue (global et la page et local pour les phrases en langues étrangères)<br />
 https://developer.mozilla.org/fr/docs/Web/HTML/Global_attributes/lang
 
 5- Vérifier la non utilisation de paragraphes vides. Remplacez les paragraphes vides en utilisant du code css approprié.
