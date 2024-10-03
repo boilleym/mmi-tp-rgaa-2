@@ -57,6 +57,7 @@ https://developer.mozilla.org/fr/docs/Web/CSS/outline-offset
 
 **Facultatif** Développer un bloc de liens d'évitement contenant un lien interne (ancre) vers la balise `<article>` et un autre lien interne vers la balise `<footer>`.<br />
 Ce bloc est visible uniquement lorsque le focus clavier est positionné sur l'un des deux liens.<br />
+https://a11y-guidelines.orange.com/fr/articles/liens-evitement/
 https://www.accede-web.com/notices/html-et-css/navigation-au-clavier/mettre-en-place-un-lien-devitement/
 
 ## Conformité W3C
