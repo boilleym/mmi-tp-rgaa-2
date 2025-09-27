@@ -42,12 +42,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table
 9- Dans le formulaire, préciser, en complément du libellé, le format attendu pour chaque champ et/ou les contraintes de saisie.<br />
 Si un champ est obligatoire il doit être identifié (par exemple avec un astérisque "*") et la règle doit être indiquée au début du formulaire, par exemple sous la forme d'une phrase d'information : "Les champs indiqués d'un * sont obligatoire".
 
-10- Balisez le message d'erreur avec le bon rôle ARIA<br />
+10- Balisez le message d'erreur avec le rôle ARIA approprié<br />
 https://access42.net/live-regions-aria-live-analogues-alert-log-status/
-
-Le menu de navigation principal doit avoir un attribut WAI-ARIA role="navigation"<br />
-La zone de contenu principal doit avoir un attribut WAI-ARIA role="main"<br />
-La zone de pied de page doit avoir un attribut WAI-ARIA role="contentinfo"<br />
 
 11- Est ce que les messages d'erreur et de confirmation utilisent une balise HTML sémantique appropriée ? Si non corrigez le HTML.
 
