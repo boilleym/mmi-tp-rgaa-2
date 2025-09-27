@@ -33,43 +33,42 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Element/blockquote
 
 7- Vérifiez la hiérarchie des titres. Modifiez le HTML en conséquence.
 
+8- Vérifiez la présence d'un titre et le balisage correct du tableau de données
+https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table
+
+
 ## Formulaire
 
-8- Dans le formulaire, préciser, en complément du libellé, le format attendu pour chaque champ et/ou les contraintes de saisie.<br />
+9- Dans le formulaire, préciser, en complément du libellé, le format attendu pour chaque champ et/ou les contraintes de saisie.<br />
 Si un champ est obligatoire il doit être identifié (par exemple avec un astérisque "*") et la règle doit être indiquée au début du formulaire, par exemple sous la forme d'une phrase d'information : "Les champs indiqués d'un * sont obligatoire".
 
-9- Balisez le message d'erreur avec le bon rôle ARIA<br />
+10- Balisez le message d'erreur avec le bon rôle ARIA<br />
 https://access42.net/live-regions-aria-live-analogues-alert-log-status/
 
 Le menu de navigation principal doit avoir un attribut WAI-ARIA role="navigation"<br />
 La zone de contenu principal doit avoir un attribut WAI-ARIA role="main"<br />
 La zone de pied de page doit avoir un attribut WAI-ARIA role="contentinfo"<br />
 
-10- Est ce que les messages d'erreur et de confirmation utilisent une balise HTML sémantique appropriée ? Si non corrigez le HTML.
+11- Est ce que les messages d'erreur et de confirmation utilisent une balise HTML sémantique appropriée ? Si non corrigez le HTML.
 
-11- Utilisez un attribut aria-label pour completer le libellé peu clair du bouton<br />
+12- Utilisez un attribut aria-label pour completer le libellé peu clair du bouton<br />
 https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-label
 
-12- Utilisez les bons attributs autocomplete sur les champs nom, prénom et mail pour suggerer la saisie de valeurs déjà connues par le navigateur.<br />
+13- Utilisez les bons attributs autocomplete sur les champs nom, prénom et mail pour suggerer la saisie de valeurs déjà connues par le navigateur.<br />
 https://developer.mozilla.org/fr/docs/Web/HTML/Attributes/autocomplete
 
 ## Navigation 
 
-13- Naviguez au clavier dans la page, chaque élément recevant le focus doit être mis en évidence graphiquement. Si ce n'est pas le cas completez le CSS (en utilisant la pseudo classe :focus) pour ajouter un effet de bordure lors de la prise de focus des éléments. (1 point bonus si la couleur de la bordure est raccord avec la robe du mage de l'illustration).<br />
+14- Naviguez au clavier dans la page, chaque élément recevant le focus doit être mis en évidence graphiquement. Si ce n'est pas le cas completez le CSS (en utilisant la pseudo classe :focus) pour ajouter un effet de bordure lors de la prise de focus des éléments. (1 point bonus si la couleur de la bordure est raccord avec la robe du mage de l'illustration).<br />
 https://developer.mozilla.org/fr/docs/Web/CSS/outline<br />
 https://developer.mozilla.org/fr/docs/Web/CSS/outline-offset
 
-14-  Développer un bloc de liens d'évitement contenant un lien interne (ancre) vers la balise `<article>` et un autre lien interne vers la balise `<footer>`.<br />Ce bloc est visible uniquement lorsque le focus clavier est positionné sur l'un des deux liens.<br />
+15-  Développer un bloc de liens d'évitement contenant un lien interne (ancre) vers la balise `<article>` et un autre lien interne vers la balise `<footer>`.<br />Ce bloc est visible uniquement lorsque le focus clavier est positionné sur l'un des deux liens.<br />
 https://a11y-guidelines.orange.com/fr/articles/liens-evitement/
 
-15- Adapter le CSS pour que la page s'affiche sans barre de scroll *horizontale* dans un écran de largeur 500px.
+16- Adapter le CSS pour que la page s'affiche sans barre de scroll *horizontale* dans un écran de largeur 500px.
 
 ## Conformité W3C
-16- Vérifiez la conformité de votre HTML en copiant / collant le contenu de **index.html** dans le champ de contrôle "Direct input" du *W3C Validator*.<br />
+17- Vérifiez la conformité de votre HTML en copiant / collant le contenu de **index.html** dans le champ de contrôle "Direct input" du *W3C Validator*.<br />
 Corrigez les erreurs éventuelles.<br />
 https://validator.w3.org/#validate_by_input
-
-
-
-
-
