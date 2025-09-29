@@ -33,7 +33,7 @@ https://developer.mozilla.org/fr/docs/Web/HTML/Element/blockquote
 
 7- Vérifiez la hiérarchie des titres. Modifiez le HTML en conséquence.
 
-8- Vérifiez la présence d'un titre et le balisage correct du tableau de données
+8- Vérifiez la présence d'un titre et le balisage correct du tableau de données. <br/>
 https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/table
 
 
